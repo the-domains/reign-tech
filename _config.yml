@@ -1,0 +1,28 @@
+name: reign-tech
+favicon: null
+layout_spectrum: 0.6221025916747749
+typography_spectrum: 0.5152918016538024
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.837356323376298
+  lightness: 0.4055620292201638
+  saturation: 0.26253792573697865
+  rhythmicContrast: 0.48179329256527126
+purpose: []
