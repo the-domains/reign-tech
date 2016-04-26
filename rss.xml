@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[reign-tech]]></title>
         <description><![CDATA[reign-tech]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/reign-tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 00:01:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 00:11:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/reign-tech/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dd9adaf-fc10-4df4-b5d9-a12ef9b04718.jpg">]]></description>
-            <link>undefinedtop-side-showing-555-timer-for-manual-control-and-input-pins/index.html</link>
+            <link>https://thegrid.ai/reign-tech/top-side-showing-555-timer-for-manual-control-and-input-pins/index.html</link>
             <guid isPermaLink="false">4b154908-a456-46c8-860b-68104412615a</guid>
-            <pubDate>Tue, 26 Apr 2016 00:01:23 GMT</pubDate>
+            <pubDate>Tue, 26 Apr 2016 00:11:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
