@@ -4,15 +4,8 @@
         <description><![CDATA[reign-tech]]></description>
         <link>https://thegrid.ai/reign-tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 21:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 21:16:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/reign-tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[JavaFX "FanManager"]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1bd4a40af4d6190044119fcef6c98e763ab10a0c.png" alt="" title="">]]></description>
-            <link>https://thegrid.ai/reign-tech/javafx-fanmanager/index.html</link>
-            <guid isPermaLink="false">41e991f6-8c83-444c-b20c-1a835eada2be</guid>
-            <pubDate>Tue, 26 Apr 2016 21:15:39 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/924981c0-7e65-4216-9a3b-4dfc48438a0b.png">]]></description>
@@ -26,6 +19,13 @@
             <link>https://thegrid.ai/reign-tech/trebuchet/index.html</link>
             <guid isPermaLink="false">f45e57fd-6644-4b05-9d0e-1e20c057199f</guid>
             <pubDate>Tue, 26 Apr 2016 21:15:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JavaFX "FanManager"]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1bd4a40af4d6190044119fcef6c98e763ab10a0c.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/reign-tech/javafx-fanmanager/index.html</link>
+            <guid isPermaLink="false">41e991f6-8c83-444c-b20c-1a835eada2be</guid>
+            <pubDate>Tue, 26 Apr 2016 20:42:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
