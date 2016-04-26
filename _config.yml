@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: reign-tech
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.5152918016538024
 collections:
   - index:
       path: /
@@ -18,23 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 0
   brandColors:
     - '#ffffff'
     - '#736f0b'
     - '#100900'
     - '#b6a61b'
     - '#493806'
-  rhythmicContrast: 1
-typography_spectrum: 0.5152918016538024
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 1
-favicon: null
-name: reign-tech
+  brandStrength: 0.1875
+  lightness: 0
+  saturation: 0.5
+  rhythmicContrast: 0.75
+purpose: []
