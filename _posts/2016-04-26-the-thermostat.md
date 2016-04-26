@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: 'Transmits temperature, humidity, and barometric pressure back to user interface and has a relay to control heating or cooling unit.'
-datePublished: '2016-04-26T19:49:51.543Z'
-dateModified: '2016-04-26T19:49:45.929Z'
+datePublished: '2016-04-26T19:56:06.702Z'
+dateModified: '2016-04-26T19:49:58.651Z'
 title: 'Make it permanent! '
 author:
   - name: ''
