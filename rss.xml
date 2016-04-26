@@ -4,15 +4,8 @@
         <description><![CDATA[reign-tech]]></description>
         <link>https://thegrid.ai/reign-tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 21:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 21:16:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/reign-tech/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dd9adaf-fc10-4df4-b5d9-a12ef9b04718.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/reign-tech/top-side-showing-555-timer-for-manual-control-and-input-pins/index.html</link>
-            <guid isPermaLink="false">4b154908-a456-46c8-860b-68104412615a</guid>
-            <pubDate>Tue, 26 Apr 2016 21:16:19 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Make it permanent! ]]></title>
             <description><![CDATA[<article><h1>Make it permanent! </h1><p>Transmits temperature, humidity, and barometric pressure back to user interface and has a relay to control heating or cooling unit.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e6f11e5-b4ea-4534-97af-21b6da512df5.jpg"></article>]]></description>
@@ -40,6 +33,13 @@
             <link>https://thegrid.ai/reign-tech/trebuchet/index.html</link>
             <guid isPermaLink="false">f45e57fd-6644-4b05-9d0e-1e20c057199f</guid>
             <pubDate>Tue, 26 Apr 2016 21:15:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dd9adaf-fc10-4df4-b5d9-a12ef9b04718.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/reign-tech/top-side-showing-555-timer-for-manual-control-and-input-pins/index.html</link>
+            <guid isPermaLink="false">4b154908-a456-46c8-860b-68104412615a</guid>
+            <pubDate>Tue, 26 Apr 2016 20:22:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
