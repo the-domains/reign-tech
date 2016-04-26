@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Trebuchet!?!'
-datePublished: '2016-04-26T21:12:21.529Z'
-dateModified: '2016-04-26T21:08:45.636Z'
+datePublished: '2016-04-26T21:15:30.660Z'
+dateModified: '2016-04-26T21:14:14.981Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-26-trebuchet.md
