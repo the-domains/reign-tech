@@ -1,13 +1,12 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: ''
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Transmits temperature, humidity, and barometric pressure back to user interface and has a relay to control heating or cooling unit.'
-datePublished: '2016-04-26T20:42:25.112Z'
-dateModified: '2016-04-26T19:56:08.005Z'
+datePublished: '2016-04-26T21:16:11.867Z'
+dateModified: '2016-04-26T21:14:57.769Z'
 title: 'Make it permanent! '
 author:
   - name: ''
@@ -21,7 +20,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-_type: Blurb
+url: make-it-permanent/index.html
+_type: Article
 
 ---
 The wireless thermostat
