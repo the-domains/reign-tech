@@ -4,35 +4,42 @@
         <description><![CDATA[reign-tech]]></description>
         <link>https://thegrid.ai/reign-tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 21:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 21:16:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/reign-tech/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d71f6c8a-fc7e-40fb-bc48-2d0ab6978c79.jpg">]]></description>
-            <link>https://thegrid.ai/reign-tech/trebuchet/index.html</link>
-            <guid isPermaLink="false">f45e57fd-6644-4b05-9d0e-1e20c057199f</guid>
-            <pubDate>Tue, 26 Apr 2016 21:12:21 GMT</pubDate>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dd9adaf-fc10-4df4-b5d9-a12ef9b04718.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/reign-tech/top-side-showing-555-timer-for-manual-control-and-input-pins/index.html</link>
+            <guid isPermaLink="false">4b154908-a456-46c8-860b-68104412615a</guid>
+            <pubDate>Tue, 26 Apr 2016 21:16:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/924981c0-7e65-4216-9a3b-4dfc48438a0b.png">]]></description>
-            <link>https://thegrid.ai/reign-tech/ios-application-to-store-and-retrieve-inventory-with-communi/index.html</link>
-            <guid isPermaLink="false">cf5942ce-f980-4a3e-8976-850bb24ec6d7</guid>
-            <pubDate>Tue, 26 Apr 2016 20:56:07 GMT</pubDate>
+            <title><![CDATA[Make it permanent! ]]></title>
+            <description><![CDATA[<article><h1>Make it permanent! </h1><p>Transmits temperature, humidity, and barometric pressure back to user interface and has a relay to control heating or cooling unit.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e6f11e5-b4ea-4534-97af-21b6da512df5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/reign-tech/make-it-permanent/index.html</link>
+            <guid isPermaLink="false">1b9ecfd9-a3a6-4140-abc4-40dd07713508</guid>
+            <pubDate>Tue, 26 Apr 2016 21:16:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[JavaFX "FanManager"]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1bd4a40af4d6190044119fcef6c98e763ab10a0c.png" alt="" title="">]]></description>
             <link>https://thegrid.ai/reign-tech/javafx-fanmanager/index.html</link>
             <guid isPermaLink="false">41e991f6-8c83-444c-b20c-1a835eada2be</guid>
-            <pubDate>Tue, 26 Apr 2016 20:42:19 GMT</pubDate>
+            <pubDate>Tue, 26 Apr 2016 21:15:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dd9adaf-fc10-4df4-b5d9-a12ef9b04718.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/reign-tech/top-side-showing-555-timer-for-manual-control-and-input-pins/index.html</link>
-            <guid isPermaLink="false">4b154908-a456-46c8-860b-68104412615a</guid>
-            <pubDate>Tue, 26 Apr 2016 20:22:56 GMT</pubDate>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/924981c0-7e65-4216-9a3b-4dfc48438a0b.png">]]></description>
+            <link>https://thegrid.ai/reign-tech/ios-application-to-store-and-retrieve-inventory-with-communi/index.html</link>
+            <guid isPermaLink="false">cf5942ce-f980-4a3e-8976-850bb24ec6d7</guid>
+            <pubDate>Tue, 26 Apr 2016 21:15:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d71f6c8a-fc7e-40fb-bc48-2d0ab6978c79.jpg">]]></description>
+            <link>https://thegrid.ai/reign-tech/trebuchet/index.html</link>
+            <guid isPermaLink="false">f45e57fd-6644-4b05-9d0e-1e20c057199f</guid>
+            <pubDate>Tue, 26 Apr 2016 21:15:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
