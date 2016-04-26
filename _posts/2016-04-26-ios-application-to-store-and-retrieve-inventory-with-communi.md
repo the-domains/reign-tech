@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: iOS Application to store and retrieve inventory with communication to control a machine that would retrieve called for inventory.
-datePublished: '2016-04-26T20:41:22.402Z'
-dateModified: '2016-04-26T20:40:44.212Z'
+description: 'An iOS Application to store information with the help of any/all iOS sensors to identify quantity or communicate with a machine that would retrieve called for inventory. '
+datePublished: '2016-04-26T20:56:07.417Z'
+dateModified: '2016-04-26T20:55:35.987Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-26-ios-application-to-store-and-retrieve-inventory-with-communi.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,21 +18,20 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-26-ios-application-to-store-and-retrieve-inventory-with-communi.md
-published: true
 url: ios-application-to-store-and-retrieve-inventory-with-communi/index.html
 _type: Article
 
 ---
-iOS Application to store and retrieve inventory with communication to control a machine that would retrieve called for inventory.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/924981c0-7e65-4216-9a3b-4dfc48438a0b.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad7b2042-9d64-49b6-b953-584344a8c041.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbdf2960-ea44-40ac-93e6-e3e025014d4c.png)
+An iOS Application to store information with the help of any/all iOS sensors to identify quantity or communicate with a machine that would retrieve called for inventory. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/924981c0-7e65-4216-9a3b-4dfc48438a0b.png)
+
+I used Objective C, TBXML, HTTPRequest, CoreData, CoreGraphics, CoreLocation, CoreMedia, MessageUI, DragonMobile (speech kit), RedLaser (barcode scanner), and InAppSettingsKit for iOS 3, 4 and 5\.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5afbd51f415d64223baa760e7e543fe22961fcd3.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d84c4a98ea9146a11f0c81f343ab0568db4c03ae.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a5d6605-bf37-49de-8b85-c791aa2b1d49.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/292b0440-b00e-4b0d-a245-b4219a0c584d.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71522f26-e484-4bde-a3d2-365f185256c1.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c23a8323d01dbc45e42b5309cf6e9c2a299eba03.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eed1e7bf-1861-4651-a30d-0ba0f2328ad7.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3410b3b3-d333-4e58-81c4-b47ca257f5b7.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f24b1691d8d5df5e2a964813d82493a87bb5346.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6047acd1-f00a-484d-b5d0-3c2336184ce7.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe94662b-73eb-4324-acf7-a06b2cb279ec.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4966f2f5-99e2-416a-9ce0-c27442dec713.png)
