@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Trebuchet!?!'
-datePublished: '2016-04-26T21:15:30.660Z'
-dateModified: '2016-04-26T21:14:14.981Z'
+datePublished: '2016-04-26T21:45:28.670Z'
+dateModified: '2016-04-26T21:23:43.669Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-26-trebuchet.md
