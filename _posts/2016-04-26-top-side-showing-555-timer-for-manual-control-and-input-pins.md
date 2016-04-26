@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Past work: Constructing control board for automated conveyor type system:'
-datePublished: '2016-04-26T20:22:56.839Z'
-dateModified: '2016-04-26T20:22:04.927Z'
+datePublished: '2016-04-26T21:16:19.703Z'
+dateModified: '2016-04-26T21:14:26.662Z'
 title: ''
 author:
   - name: ''
