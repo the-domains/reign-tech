@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Garden Planters Project 07/16:'
-datePublished: '2016-07-01T19:39:33.805Z'
-dateModified: '2016-07-01T19:39:09.370Z'
+datePublished: '2016-07-01T19:43:17.392Z'
+dateModified: '2016-07-01T19:43:01.542Z'
 title: 'Side View:'
 author:
   - name: ''
@@ -23,9 +23,10 @@ Garden Planters Project 07/16:
 
 160' 2x8 lumber, or 13 1/3 pieces of 12' boards
 
-2- 6.5' 4x4's ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1d4e86d-cd7c-4ed0-9053-1d0c9c2109a7.png)
+2- 6.5' 4x4's 
 
 FrontView:
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c9d278df00773df03e87cb88c6ff4428/croprotate.png?cropheight=768&cropwidth=440&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe1d4e86d-cd7c-4ed0-9053-1d0c9c2109a7.png&x=43&y=0)
 
 Side View:
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/705419ba1d0b7112f1ceb44e8b16e5e4/croprotate.png?cropheight=827&cropwidth=755&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F29c59b4b-6807-4c4c-82e7-3b6c89cb3372.png&x=29&y=0)
@@ -34,10 +35,10 @@ Top View:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0f48805-2bfc-47c1-90fe-f48ae34f3886.png)
 
 Supports:
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cac83f84-0916-4da7-aa57-8983d7f6c9be.png)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fbbf5362cbb80552c79241fd97bb8aa3/croprotate.png?cropheight=753&cropwidth=614&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fcac83f84-0916-4da7-aa57-8983d7f6c9be.png&x=19&y=16)
 
 Angles of Sides 01:
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9fcb45d8-3beb-42bc-8f58-26c3fc130f7b.png)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6a008079a03c3ded03677e8abd301b59/croprotate.png?cropheight=330&cropwidth=1277&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9fcb45d8-3beb-42bc-8f58-26c3fc130f7b.png&x=0&y=32)
 
 Angles of Sides 02 Top View:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf4ab52b-c926-4e20-a28a-54d7acaa05bc.png)
