@@ -5,17 +5,13 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Trebuchet!?!
-datePublished: '2016-07-01T20:14:15.633Z'
-dateModified: '2016-04-26T22:36:51.077Z'
+datePublished: '2016-07-01T20:31:31.313Z'
+dateModified: '2016-07-01T20:31:28.755Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-26-trebuchet.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: trebuchet/index.html
 _type: Article
