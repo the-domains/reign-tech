@@ -4,7 +4,7 @@
         <description><![CDATA[reign-tech]]></description>
         <link>https://thegrid.ai/reign-tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 20:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2016 20:30:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/reign-tech/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Front View]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/reign-tech/garden-planters-project-july-2016/index.html</link>
             <guid isPermaLink="false">a6df4c0e-9184-4133-bc81-e1cdcd787f27</guid>
             <pubDate>Fri, 01 Jul 2016 20:20:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Machine]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dd9adaf-fc10-4df4-b5d9-a12ef9b04718.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/reign-tech/top-side-showing-555-timer-for-manual-control-and-input-pins/index.html</link>
+            <guid isPermaLink="false">4b154908-a456-46c8-860b-68104412615a</guid>
+            <pubDate>Fri, 01 Jul 2016 20:30:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trebuchet]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/reign-tech/ios-application-to-store-and-retrieve-inventory-with-communi/index.html</link>
             <guid isPermaLink="false">cf5942ce-f980-4a3e-8976-850bb24ec6d7</guid>
             <pubDate>Fri, 01 Jul 2016 20:10:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Machine]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dd9adaf-fc10-4df4-b5d9-a12ef9b04718.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/reign-tech/top-side-showing-555-timer-for-manual-control-and-input-pins/index.html</link>
-            <guid isPermaLink="false">4b154908-a456-46c8-860b-68104412615a</guid>
-            <pubDate>Fri, 01 Jul 2016 00:33:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wireless Thermostat]]></title>
