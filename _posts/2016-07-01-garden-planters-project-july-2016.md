@@ -5,14 +5,16 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Garden Planters Project July 2016:'
-datePublished: '2016-07-01T20:03:59.253Z'
-dateModified: '2016-07-01T20:03:58.857Z'
-title: ''
-author: []
+datePublished: '2016-07-01T20:18:57.226Z'
+dateModified: '2016-07-01T20:15:51.121Z'
+title: Front View
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-07-01-garden-planters-project-july-2016.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: garden-planters-project-july-2016/index.html
 _type: Article
 
@@ -24,7 +26,7 @@ Materials:
 160' 2x8 lumber
 
 13' 4x4's
-![Front View](https://the-grid-user-content.s3-us-west-2.amazonaws.com/342d89c9-07e8-4184-a539-43544566d1db.png)
+![Front View](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/17c947a21966f77a638fe275ad548fbd/croprotate.png?cropheight=768&cropwidth=440&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F342d89c9-07e8-4184-a539-43544566d1db.png&x=43&y=0)
 ![Side View](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b37eb68-34a6-4adc-98e4-1b7024955daf.png)
 ![Top View](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d079104c-0026-4dad-af0c-b3dfc3838755.png)
 ![Supports](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1feae87-13f8-4fcd-826c-d0fb7dba9b01.png)
