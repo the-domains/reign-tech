@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Garden Planters Project 07/16:'
-datePublished: '2016-07-01T19:34:43.466Z'
-dateModified: '2016-07-01T19:34:42.926Z'
-title: ''
-author: []
+datePublished: '2016-07-01T19:39:33.805Z'
+dateModified: '2016-07-01T19:39:09.370Z'
+title: 'Side View:'
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-07-01-garden-planters-project-0716.md
 authors: []
 publisher: null
@@ -21,13 +23,12 @@ Garden Planters Project 07/16:
 
 160' 2x8 lumber, or 13 1/3 pieces of 12' boards
 
-2- 6.5' 4x4's 
+2- 6.5' 4x4's ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1d4e86d-cd7c-4ed0-9053-1d0c9c2109a7.png)
 
 FrontView:
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6857d59-a13d-4918-bcba-0053bedfad35.png)
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/705419ba1d0b7112f1ceb44e8b16e5e4/croprotate.png?cropheight=827&cropwidth=755&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F29c59b4b-6807-4c4c-82e7-3b6c89cb3372.png&x=29&y=0)
 
 Side View:
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/705419ba1d0b7112f1ceb44e8b16e5e4/croprotate.png?cropheight=827&cropwidth=755&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F29c59b4b-6807-4c4c-82e7-3b6c89cb3372.png&x=29&y=0)
 
 Top View:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0f48805-2bfc-47c1-90fe-f48ae34f3886.png)
