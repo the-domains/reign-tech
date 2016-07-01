@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Garden Planters Project July 2016:'
-datePublished: '2016-07-01T20:20:03.121Z'
-dateModified: '2016-07-01T20:19:05.918Z'
+description: 'Materials:'
+datePublished: '2016-07-01T20:32:43.736Z'
+dateModified: '2016-07-01T20:32:34.692Z'
 title: Front View
 author:
   - name: ''
@@ -19,13 +19,13 @@ url: garden-planters-project-july-2016/index.html
 _type: Article
 
 ---
-Garden Planters Project July 2016:
+**Garden Planters Project July 2016:**
 
 Materials:
 
-160' 2x8 lumber
+* 160' 2x8 lumber
 
-13' 4x4's
+* 13' 4x4's
 ![Front View](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/17c947a21966f77a638fe275ad548fbd/croprotate.png?cropheight=768&cropwidth=440&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F342d89c9-07e8-4184-a539-43544566d1db.png&x=43&y=0)
 ![Side View](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b37eb68-34a6-4adc-98e4-1b7024955daf.png)
 ![Top View](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d079104c-0026-4dad-af0c-b3dfc3838755.png)
