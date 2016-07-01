@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Past work: Constructing control board for automated conveyor type system:'
-datePublished: '2016-07-01T20:41:18.332Z'
-dateModified: '2016-07-01T20:40:49.676Z'
-title: ''
+datePublished: '2016-07-01T20:50:39.634Z'
+dateModified: '2016-07-01T20:50:34.597Z'
+title: Prototype Board
 author:
   - name: ''
     url: ''
