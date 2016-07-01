@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Garden Planters Project July 2016:'
-datePublished: '2016-07-01T19:59:27.644Z'
-dateModified: '2016-07-01T19:59:25.159Z'
+datePublished: '2016-07-01T20:03:59.253Z'
+dateModified: '2016-07-01T20:03:58.857Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-01-garden-planters-project-july-2016.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-01-garden-planters-project-july-2016.md
 url: garden-planters-project-july-2016/index.html
 _type: Article
 
