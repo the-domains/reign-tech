@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'Garden Planters Project 07/16:'
-datePublished: '2016-07-01T00:28:46.114Z'
-dateModified: '2016-07-01T00:27:29.760Z'
+datePublished: '2016-07-01T00:37:23.652Z'
+dateModified: '2016-07-01T00:35:56.010Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-01-garden-planters-project-0716.md
@@ -26,8 +26,8 @@ Garden Planters Project 07/16:
 FrontView:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6857d59-a13d-4918-bcba-0053bedfad35.png)
 
-Side View
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/29c59b4b-6807-4c4c-82e7-3b6c89cb3372.png)
+Side View:
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/705419ba1d0b7112f1ceb44e8b16e5e4/croprotate.png?cropheight=827&cropwidth=755&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F29c59b4b-6807-4c4c-82e7-3b6c89cb3372.png&x=29&y=0)
 
 Top View:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0f48805-2bfc-47c1-90fe-f48ae34f3886.png)
