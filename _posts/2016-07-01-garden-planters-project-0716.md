@@ -4,20 +4,24 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Garden Planters Project 07/16
-datePublished: '2016-07-01T00:19:35.137Z'
-dateModified: '2016-07-01T00:18:38.528Z'
+description: 'Garden Planters Project 07/16:'
+datePublished: '2016-07-01T00:28:46.114Z'
+dateModified: '2016-07-01T00:27:29.760Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-01-garden-planters-project-0716.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-01-garden-planters-project-0716.md
 url: garden-planters-project-0716/index.html
 _type: Article
 
 ---
-Garden Planters Project 07/16
+Garden Planters Project 07/16:
+
+160' 2x8 lumber, or 13 1/3 pieces of 12' boards
+
+2- 6.5' 4x4's 
 
 FrontView:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6857d59-a13d-4918-bcba-0053bedfad35.png)
