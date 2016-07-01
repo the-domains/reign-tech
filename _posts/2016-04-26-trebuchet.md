@@ -4,13 +4,12 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Trebuchet!?!'
-datePublished: '2016-04-26T21:45:28.670Z'
-dateModified: '2016-04-26T21:23:43.669Z'
+description: Trebuchet!?!
+datePublished: '2016-07-01T20:14:15.633Z'
+dateModified: '2016-04-26T22:36:51.077Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-26-trebuchet.md
-published: true
 authors: []
 publisher:
   name: null
@@ -53,7 +52,6 @@ Trebuchet!?!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/766c8a8d-6b28-4444-8770-ca3b2feda74b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbd7be29-a2f9-4faa-a542-86e7a47a6488.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4d25f01-0b9d-4102-96db-81e387dab805.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d50799c8-f8ee-4288-a1d2-3d8bafb54126.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a542ffb-7653-41bf-9a13-fae00ec854bc.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/beed2791-669e-4ba5-a644-8b0ac63d7f2a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/12995fd3-aada-4646-a23a-6d521ae5b71a.jpg)
