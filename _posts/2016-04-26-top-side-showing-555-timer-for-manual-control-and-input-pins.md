@@ -5,20 +5,16 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Past work: Constructing control board for automated conveyor type system:'
-datePublished: '2016-04-26T22:02:32.033Z'
-dateModified: '2016-04-26T21:59:12.956Z'
+datePublished: '2016-07-01T00:33:07.390Z'
+dateModified: '2016-07-01T00:33:07.014Z'
 title: ''
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-04-26-top-side-showing-555-timer-for-manual-control-and-input-pins.md
-published: true
+sourcePath: >-
+  _posts/2016-04-26-top-side-showing-555-timer-for-manual-control-and-input-pins.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: top-side-showing-555-timer-for-manual-control-and-input-pins/index.html
 _type: Article
