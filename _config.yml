@@ -40,6 +40,9 @@ navigation:
   - name: Electro-Mechanical
     id: 4b154908-a456-46c8-860b-68104412615a
     type: content
+  - name: Machine
+    id: a6df4c0e-9184-4133-bc81-e1cdcd787f27
+    type: content
 favicon: null
 collections:
   - index:
