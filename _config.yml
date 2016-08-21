@@ -1,7 +1,30 @@
-name: reign-tech
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.07131
+color:
+  brandColors:
+    - '#000000'
+    - '#a2a7ac'
+    - '#435873'
+    - '#b2671a'
+    - '#fc9d21'
+  brandStrength: 0.797619
+  lightness: 0
+  saturation: 0.75
+  rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: reign-tech
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -14,27 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#a2a7ac'
-    - '#435873'
-    - '#b2671a'
-    - '#fc9d21'
-  brandStrength: 0.797619
-  lightness: 0
-  saturation: 0.75
-  rhythmicContrast: 0.25
+title: Reign
 purpose: []
