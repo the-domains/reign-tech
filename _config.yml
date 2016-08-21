@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Wireless Thermostat
+    id: f5337470-a1cf-4773-9ab1-8e797a2d9c3d
+    type: content
 favicon: null
 collections:
   - index:
