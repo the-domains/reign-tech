@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T22:08:22.439Z'
+datePublished: '2016-08-20T22:29:03.934Z'
 sourcePath: _posts/2016-07-01-garden-planters-project-july-2016.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-20T22:08:21.842Z'
+dateModified: '2016-08-20T22:29:03.438Z'
 title: Front View
 publisher: {}
 description: '5-Tier Planters: rev.01'
