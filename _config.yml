@@ -37,6 +37,9 @@ navigation:
   - name: iOS
     id: cf5942ce-f980-4a3e-8976-850bb24ec6d7
     type: content
+  - name: Electro-Mechanical
+    id: 4b154908-a456-46c8-860b-68104412615a
+    type: content
 favicon: null
 collections:
   - index:
