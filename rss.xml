@@ -4,7 +4,7 @@
         <description><![CDATA[Reign-Tech]]></description>
         <link>https://thegrid.ai/reign-tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 21:48:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 21:48:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/reign-tech/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Front View]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/reign-tech/garden-planters-project-july-2016/index.html</link>
             <guid isPermaLink="false">a6df4c0e-9184-4133-bc81-e1cdcd787f27</guid>
             <pubDate>Fri, 01 Jul 2016 20:32:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prototype Board]]></title>
+            <description><![CDATA[<article><h1>Prototype Board</h1><p>Past work: Constructing control board for automated conveyor type system:</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dd9adaf-fc10-4df4-b5d9-a12ef9b04718.jpg"></article>]]></description>
+            <link>https://thegrid.ai/reign-tech/top-side-showing-555-timer-for-manual-control-and-input-pins/index.html</link>
+            <guid isPermaLink="false">4b154908-a456-46c8-860b-68104412615a</guid>
+            <pubDate>Sat, 20 Aug 2016 21:48:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[An iOS application to integrate with the machine]]></title>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/reign-tech/wireless-thermostat/index.html</link>
             <guid isPermaLink="false">f5337470-a1cf-4773-9ab1-8e797a2d9c3d</guid>
             <pubDate>Sat, 20 Aug 2016 21:43:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prototype Board]]></title>
-            <description><![CDATA[<article><h1>Prototype Board</h1><p>Past work: Constructing control board for automated conveyor type system:</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dd9adaf-fc10-4df4-b5d9-a12ef9b04718.jpg"></article>]]></description>
-            <link>https://thegrid.ai/reign-tech/top-side-showing-555-timer-for-manual-control-and-input-pins/index.html</link>
-            <guid isPermaLink="false">4b154908-a456-46c8-860b-68104412615a</guid>
-            <pubDate>Fri, 01 Jul 2016 20:50:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
