@@ -4,7 +4,7 @@
         <description><![CDATA[Reign-Tech]]></description>
         <link>https://thegrid.ai/reign-tech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 22:08:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 22:11:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/reign-tech/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Front View]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/reign-tech/garden-planters-project-july-2016/index.html</link>
             <guid isPermaLink="false">a6df4c0e-9184-4133-bc81-e1cdcd787f27</guid>
             <pubDate>Sat, 20 Aug 2016 22:08:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wireless Thermostat]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/adafe9fa-91a0-4b36-9d6e-29e6767945bd.jpg" alt="The completed circuit of a wireless weather station">]]></description>
+            <link>https://thegrid.ai/reign-tech/wireless-thermostat/index.html</link>
+            <guid isPermaLink="false">f5337470-a1cf-4773-9ab1-8e797a2d9c3d</guid>
+            <pubDate>Sat, 20 Aug 2016 22:11:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prototype Board]]></title>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/reign-tech/javafx-fanmanager/index.html</link>
             <guid isPermaLink="false">41e991f6-8c83-444c-b20c-1a835eada2be</guid>
             <pubDate>Sat, 20 Aug 2016 21:45:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wireless Thermostat]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/adafe9fa-91a0-4b36-9d6e-29e6767945bd.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/reign-tech/wireless-thermostat/index.html</link>
-            <guid isPermaLink="false">f5337470-a1cf-4773-9ab1-8e797a2d9c3d</guid>
-            <pubDate>Sat, 20 Aug 2016 21:43:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
