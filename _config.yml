@@ -25,6 +25,9 @@ cta:
   bucket: null
   version: null
 navigation:
+  - name: Engineering
+    id: a6df4c0e-9184-4133-bc81-e1cdcd787f27
+    type: content
   - name: EE
     id: f5337470-a1cf-4773-9ab1-8e797a2d9c3d
     type: content
@@ -39,9 +42,6 @@ navigation:
     type: content
   - name: EE
     id: 4b154908-a456-46c8-860b-68104412615a
-    type: content
-  - name: Engineering
-    id: a6df4c0e-9184-4133-bc81-e1cdcd787f27
     type: content
 favicon: null
 collections:
