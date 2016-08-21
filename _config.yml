@@ -34,6 +34,9 @@ navigation:
   - name: Trebuchet
     id: f45e57fd-6644-4b05-9d0e-1e20c057199f
     type: content
+  - name: iOS
+    id: cf5942ce-f980-4a3e-8976-850bb24ec6d7
+    type: content
 favicon: null
 collections:
   - index:
