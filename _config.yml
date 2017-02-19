@@ -63,3 +63,7 @@ description: >-
 purpose: []
 content: []
 github: true
+author:
+  name: Christopher DeRenzo
+  email: reigntech@gmail.com
+  url: 'http://reign-tech.com'
