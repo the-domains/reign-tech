@@ -31,17 +31,17 @@ navigation:
   - name: EE
     id: f5337470-a1cf-4773-9ab1-8e797a2d9c3d
     type: content
+  - name: EE
+    id: 4b154908-a456-46c8-860b-68104412615a
+    type: content
   - name: JavaFX
     id: 41e991f6-8c83-444c-b20c-1a835eada2be
-    type: content
-  - name: Mechanics
-    id: f45e57fd-6644-4b05-9d0e-1e20c057199f
     type: content
   - name: iOS
     id: cf5942ce-f980-4a3e-8976-850bb24ec6d7
     type: content
-  - name: EE
-    id: 4b154908-a456-46c8-860b-68104412615a
+  - name: Mechanics
+    id: f45e57fd-6644-4b05-9d0e-1e20c057199f
     type: content
 favicon: null
 collections:
@@ -61,3 +61,5 @@ description: >-
   Technologist in the field of software and hardware for interacting with the
   environment.
 purpose: []
+content: []
+github: true
