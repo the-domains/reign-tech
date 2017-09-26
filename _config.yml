@@ -1,69 +1,64 @@
-typography_spectrum: 0.07131
-color:
-  brandColors:
-    - '#000000'
-    - '#a2a7ac'
-    - '#435873'
-    - '#b2671a'
-    - '#fc9d21'
-  brandStrength: 0.797619
-  lightness: 0
-  saturation: 0.75
-  rhythmicContrast: 0.25
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 1
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 name: reign-tech
+analytics: {}
+purpose: []
+github: true
+description: >-
+  Technologist in the field of software and hardware for interacting with the
+  environment.
+author:
+  name: Christopher Reign DeRenzo
+  url: 'http://reign-tech.com'
+  email: reigntech@gmail.com
 cta:
-  domain: null
   bucket: null
   version: null
-navigation:
-  - name: Engineering
-    id: a6df4c0e-9184-4133-bc81-e1cdcd787f27
-    type: content
-  - name: EE
-    id: f5337470-a1cf-4773-9ab1-8e797a2d9c3d
-    type: content
-  - name: EE
-    id: 4b154908-a456-46c8-860b-68104412615a
-    type: content
-  - name: JavaFX
-    id: 41e991f6-8c83-444c-b20c-1a835eada2be
-    type: content
-  - name: iOS
-    id: cf5942ce-f980-4a3e-8976-850bb24ec6d7
-    type: content
-  - name: Mechanics
-    id: f45e57fd-6644-4b05-9d0e-1e20c057199f
-    type: content
-favicon: null
+  domain: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Reign-Tech
-description: >-
-  Technologist in the field of software and hardware for interacting with the
-  environment.
-purpose: []
+    permalink:
+      path: '/:title/'
 content: []
-github: true
-author:
-  name: Christopher DeRenzo
-  email: reigntech@gmail.com
-  url: 'http://reign-tech.com'
+navigation:
+  - id: a6df4c0e-9184-4133-bc81-e1cdcd787f27
+    name: Engineering
+    type: content
+  - id: f5337470-a1cf-4773-9ab1-8e797a2d9c3d
+    name: EE
+    type: content
+  - id: 4b154908-a456-46c8-860b-68104412615a
+    name: EE
+    type: content
+  - id: 41e991f6-8c83-444c-b20c-1a835eada2be
+    name: JavaFX
+    type: content
+  - id: cf5942ce-f980-4a3e-8976-850bb24ec6d7
+    name: iOS
+    type: content
+  - id: f45e57fd-6644-4b05-9d0e-1e20c057199f
+    name: Mechanics
+    type: content
+layout_spectrum: 1
+color:
+  lightness: 0
+  brandColors:
+    - '#000000'
+    - '#a2a7ac'
+    - '#435873'
+    - '#b2671a'
+    - '#fc9d21'
+  saturation: 0.75
+  brandStrength: 0.797619
+  rhythmicContrast: 0.25
+content_rating:
+  adult: false
+typography_spectrum: 0.07131
+opengraph: {}
+title: Reign-Tech
