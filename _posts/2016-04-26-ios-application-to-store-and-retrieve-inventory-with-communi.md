@@ -1,15 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
 inLanguage: null
 keywords: []
 description: >-
   An iOS Application to store information with the help of any/all iOS sensors
   to identify quantity or communicate with a machine that would retrieve called
   for inventory. 
-datePublished: '2016-08-20T21:48:14.559Z'
-dateModified: '2016-08-20T21:48:13.911Z'
+datePublished: '2018-03-30T23:38:05.998Z'
+dateModified: '2018-03-30T23:37:54.468Z'
 title: ''
 author: []
 sourcePath: >-
@@ -18,6 +17,7 @@ authors: []
 publisher: {}
 via: {}
 starred: false
+datePublishedOriginal: '2016-08-20T21:48:14.559Z'
 url: ios-application-to-store-and-retrieve-inventory-with-communi/index.html
 _type: Article
 
