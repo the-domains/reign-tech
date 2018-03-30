@@ -47,6 +47,9 @@ navigation:
   - name: Sumpin New
     id: a9ff66e9-3421-4da3-a7aa-7d5e04ee685e
     type: content
+  - name: Page Ocho
+    id: 634e47f5-c376-4c3f-b8e0-f922095054c7
+    type: content
 collections:
   - index:
       path: /
